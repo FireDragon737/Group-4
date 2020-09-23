@@ -1,5 +1,5 @@
 # My Grade Calculator
-An android app that performs calculations such as GPA, Final Grade, and Weighted Class grade. 
+An android app that performs calculations such as GPA, Final Grade, and Weighted Class grade. This is a free open source project, refer to the license for more information.
   
 ## Purpose
 The target users are high school or college students. It is useful for helping students to determine which classes they need to pay more attention to.
