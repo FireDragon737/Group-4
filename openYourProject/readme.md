@@ -4,6 +4,10 @@ An android app that performs calculations such as GPA, Final Grade, and Weighted
 ## Purpose
 The target users are high school or college students. It is useful for helping students to determine which classes they need to pay more attention to.
 
+---
+
+## Features:
+
 ### GPA Calculator
 ```
 Calculates GPA. Entering 6 as the number of classes generates 12
@@ -27,3 +31,10 @@ assignments. Entering 3 for the types of assignments generates 6 EditText. The a
 percent and the weight of the category is used to calculate the weighted grade. The
 calculation is triggered by the CALCULATE GRADE button.
 ```
+---
+
+## Requirements:
+
+- Android Studio 4.0.1 
+- Kotlin 1.4.0 or higher
+- Google Pixel 2 VM
